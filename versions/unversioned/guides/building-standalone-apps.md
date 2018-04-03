@@ -105,7 +105,8 @@ do need to upload your own certificates, we recommend following
 [this excellent guide on making a p12file](https://calvium.com/how-to-make-a-p12-file/).
 
 > **Note:** The Expo build service supports both normal App Store distribution as well as enterprise
-> distribution. To use the latter, you must be a member of the ["Apple Developer Enterprise
+> distribution. To use the former, you must be a member of the ["Apple Developer Program", https://developer.apple.com/programs/].
+> To use the latter, you must be a member of the ["Apple Developer Enterprise
 > Program"](https://developer.apple.com/programs/enterprise/). Only normal Apple developer accounts
 > can build apps that can be submitted to the Apple App Store, and only enterprise developer
 > accounts can build apps that can be distributed using enterprise distribution methods. When you
