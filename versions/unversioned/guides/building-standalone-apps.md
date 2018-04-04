@@ -113,6 +113,7 @@ do need to upload your own certificates, we recommend following
 > accounts can build apps that can be distributed using enterprise distribution methods. When you
 > call `exp build:ios`, use the `--apple-enterprise-account` flag. At this time, the standalone app
 > builder does not support "ad hoc" distribution certificates or provisioning profiles.
+> Building the simulator `exp build:ios -t simulator` does not require a paid Apple ID.
 
 ## 4. Wait for it to finish building
 
